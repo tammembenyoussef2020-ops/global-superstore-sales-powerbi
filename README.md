@@ -1,6 +1,6 @@
 # Global Superstore Sales Analysis — Power BI
 
-A 2-page interactive Power BI report analyzing sales performance and growth trends across 2011–2014.
+A 4-page interactive Power BI report analyzing sales performance and growth trends across 2011–2014.
 
 ## What's Inside
 - **Sales Performance Overview** — Average growth by month, YTD, YoY, and 12-month moving average
